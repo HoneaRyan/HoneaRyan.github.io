@@ -11,30 +11,40 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Mathematics and Statistics, Austin Peay State Univeristy, 2017
+* M.S. in Predictive Analytics, Austin Peay State University, 2019 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Software Intern
+  * Electrolux Home Appliances
+  * Duties included: Analysis of Big Data sets and construction of machine learning algorithms (such as k-means, one vs. all classification, and association) to interpret quality assurance data
+  * Supervisor: Dr. John Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* May 2016 - May 2017: Student Government Preseident
+  * Austin Peay State University
+  * Duties included: Event planning, serving on multiple upper administration university committees, interuniversity communication, public speaking
+  * Supervisor: Dean Gregory Singleton
+
+* Summer 2015, Summer 2016: SOARing with Mathematics Assistant
+  * Austin Peay State University
+  * Duties included: Assisting with the teaching of mathematics and statistics for youth of tri-county area through fun projects such as rockets and parachute building
+  * Supervisor: Dr. Andy Wilson, Dr. Nicholas Kirby
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Proficient Languages
+  * C++
+  * R
+  * Python
+* Working Languages
+  * Java
+  * C#
+  * Scala
+* Basic understanding of SQL Usage
+* Elementary Machine Learning techniques
+* Experimental Design
+* Simulation Design
 
 Publications
 ======
@@ -56,4 +66,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as Student Body President for Undergraduate University
+* Served in many volunteer roles in various aspects of student life (Interfraternity Council, Kappa Alpha Order, Omicron Delta Kappa)
+* Avid supporter and volunteer judge fpr National Speech and Debate League
