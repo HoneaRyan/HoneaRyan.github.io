@@ -97,11 +97,11 @@ author:
   keybase          :
   instagram        : "honeabee"
   lastfm           :
-  linkedin         :
+  linkedin         : "ryan-honea"
   orcid            : 
   pinterest        :
   soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/6195373/ryan-honea
+  stackoverflow    : "6195373/ryan-honea"
   steam            :
   tumblr           :
   twitter          : "honearyan"
@@ -173,7 +173,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
