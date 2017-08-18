@@ -21,7 +21,7 @@ Work experience
   * Duties included: Analysis of Big Data sets and construction of machine learning algorithms (such as k-means, one vs. all classification, and association) to interpret quality assurance data
   * Supervisor: Dr. John Zhang
 
-* May 2016 - May 2017: Student Government Preseident
+* May 2016 - May 2017: Student Government President
   * Austin Peay State University
   * Duties included: Event planning, serving on multiple upper administration university committees, interuniversity communication, public speaking
   * Supervisor: Dean Gregory Singleton
