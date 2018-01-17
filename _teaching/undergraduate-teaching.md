@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Enhanced Course"
 permalink: /teaching/undergraduate-teaching
 venue: "Austin Peay State Univeristy, Mathematics and Statistics"
-date: "Spring 2016 - Summer 2016"
+date: "2016-01-01"
 location: "Clarksville, Tennessee"
 ---
 
