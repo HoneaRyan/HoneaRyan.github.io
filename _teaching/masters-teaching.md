@@ -4,6 +4,7 @@ collection: teaching
 type: "Undergraduate Course Lecturing"
 permalink: /teaching/masters-teaching
 venue: "Austin Peay State University, Mathematics and Statistics"
+date: "Fall 2017 - Present"
 location: "Clarksville, TN"
 ---
 
