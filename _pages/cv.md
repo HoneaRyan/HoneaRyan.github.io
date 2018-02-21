@@ -12,10 +12,15 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics and Statistics, Austin Peay State Univeristy, 2017
-* M.S. in Predictive Analytics, Austin Peay State University, 2019 (expected)
+* M.S. in Predictive Analytics, Austin Peay State University, August 2018 (expected)
 
 Work experience
 ======
+* August 2017 - August 2018: Graduate Teaching Assistant
+  * Worked with faculty teaching mentor, Dr. Susan Vogel, to teach an undergraduate College Algebra course. This included writing tests and lectures.
+  * Assisted with running an online statistics course
+  * Assisted in various forms of research
+  
 * Summer 2017: Software Intern
   * Electrolux Home Appliances
   * Duties included: Analysis of Big Data sets and construction of machine learning algorithms (such as k-means, one vs. all classification, and association) to interpret quality assurance data
