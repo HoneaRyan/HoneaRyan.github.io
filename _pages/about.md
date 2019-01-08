@@ -10,10 +10,10 @@ redirect_from:
 
 {% include base_path %}
 
-Hey! Welcome to Honea.info. I'm Ryan Honea, a Master's student at Austin Peay State Univeristy. I'm pursuing a degree in Predictive Analytics with aspirations for a Ph.D. in some variation of Operations Research and Statistics. I enjoy developing various software applications in my freetime and tinkering with new projects. My current projects in the works are:
+Hey! Welcome to Honea.info. My name is Ryan Honea, and I am currently working as Project Management Analyst at FedEx. This includes everything from making simple bar charts to building complex models to understand and parse through years of complex shipping data. Alongside my work inside FedEx, I am actively working on several projects:
 
-* Research in Education regarding the First-Year Experience (Manuscript in Progress)
-* Research in Queuing Theory and Stochastic Processes (Abstract hopefully coming soon!)
-* Machine Learning Library in Python (for personal and learning use)
+* Research in Education regarding the First-Year Experience (Manuscript Complete, Editing in Progress)
+* Research in modified Random-Walks and Stochastic Processes (check out the blog!)
+* Contributions to various World of Warcraft analysis tools
 
-Feel free to check out my [Blog Posts](http://honea.info/year-archive/) if you are interested in any thoughts that might be on my mind regarding various open or closed problems that I feel like working on. As I move into my second semester of graduate school, I hope to become much more active in posting here.
+Feel free to check out my [Blog Posts](http://honea.info/year-archive/) if you are interested in any thoughts that might be on my mind regarding various open or closed problems that I feel like working on.
